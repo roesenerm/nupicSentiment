@@ -20,7 +20,7 @@
 # http://numenta.org/licenses/
 # ----------------------------------------------------------------------
 
-"""A simple client to read CPU usage and predict it in real time."""
+"""Read Bitcoin sentiment from Twitter and predict it in real time."""
 
 from __future__ import division
 from collections import deque
